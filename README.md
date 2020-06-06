@@ -1,6 +1,8 @@
 Pandoc-mm
 =========
 
+> WORKING IN PROGRESS
+
 > Generate a mindmap from an org-mode file. Complete with annotations.
 
 Foreword
